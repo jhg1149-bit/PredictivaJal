@@ -1,0 +1,6 @@
+﻿indicador,valor_pct,descripcion,cobertura,periodo_referencia,fuente
+microempresas_sin_monitoreo_indicadores_pct,66.5,Porcentaje de microempresas que no monitorea indicadores clave de desempeño,Nacional,2017,"INEGI ENAPROCE 2018, comunicado de resultados publicado por Secretaría de Economía"
+mipymes_resuelven_y_previenen_recurrencia_pct,25.0,MIPYMES que resolvieron problemas del proceso productivo y tomaron acciones para evitar recurrencia,Nacional,2017,"INEGI ENAPROCE 2018, comunicado de resultados publicado por Secretaría de Economía"
+mipymes_resuelven_sin_accion_posterior_pct,21.5,MIPYMES que resolvieron el problema pero no realizaron acciones posteriores,Nacional,2017,"INEGI ENAPROCE 2018, comunicado de resultados publicado por Secretaría de Economía"
+mipymes_que_capacitaron_personal_pct,15.3,MIPYMES que impartieron capacitación a sus trabajadores,Nacional,2017,"INEGI ENAPROCE 2018, comunicado de resultados publicado por Secretaría de Economía"
+pymes_monitorean_3_a_5_indicadores_pct,28.2,Pymes que monitorean de tres a cinco indicadores clave del desempeño,Nacional,2017,"INEGI ENAPROCE 2018, comunicado de resultados publicado por Secretaría de Economía"
