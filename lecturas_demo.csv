@@ -1,5 +1,0 @@
-machine_id,machine_type,temperature,vibration,current,hours
-INY-001,inyectora,62,1.2,11,80
-INY-002,inyectora,78,2.8,18,280
-CNC-001,cnc,69,3.2,15,300
-CNC-002,cnc,91,4.8,24,540
